@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](/assets/demo.gif)
+![Tux, the Linux mascot](/demo.gif)
 
 # Context
 
